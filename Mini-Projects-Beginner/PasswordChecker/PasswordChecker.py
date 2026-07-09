@@ -1,6 +1,6 @@
 password="Python123"
 print("Note: You have 3 attemots!")
-print("#Hint: Python & 1st 3 prime numbers.#")
+print("Hint: Python & 1st 3 prime numbers.")
 guess=input("Guess the password: ")
 attempts=3
 for i in range(0,attempts):
